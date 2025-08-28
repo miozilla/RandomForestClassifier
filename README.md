@@ -4,7 +4,7 @@ RandomForestClassifier : CSV Load, Train, Infer Model Demo # sklearn.ensemble # 
 ## Objective
 - load csv format dataset
 - train the model on the dataset
-- inference the predictions of the trained mode
+- infer the predictions from the trained model
 
 
 ## CSV Load, Train, Infer RandomForestClassifier Model Demo
