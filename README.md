@@ -9,12 +9,12 @@ RandomForestClassifier : CSV Load, Train, Infer Model Demo # sklearn.ensemble # 
 
 ## CSV Load, Train, Infer RandomForestClassifier Model Demo
 
-![RandomForestClassifier001.png](./media/RandomForestClassifier001.png)
+![randomforestclassifier001.png](./media/randomforestclassifier001.png)
 
-![RandomForestClassifier002.png](./media/RandomForestClassifier002.png)
+![randomforestclassifier002.png](./media/randomforestclassifier002.png)
 
-![RandomForestClassifier003.png](./media/RandomForestClassifier003.png)
+![randomforestclassifier003.png](./media/randomforestclassifier003.png)
 
-![RandomForestClassifier004.png](./media/RandomForestClassifier004.png)
+![randomforestclassifier004.png](./media/randomforestclassifier004.png)
 
-![RandomForestClassifier005.png](./media/RandomForestClassifier005.png)
+![randomforestclassifier005.png](./media/randomforestclassifier005.png)
